@@ -62,9 +62,9 @@
   @keyframes pulse {
     from {background-color: white;}
     to {background-color: #7477bf;}
-  } {
+  } 
   
-  }
+  
   
   .bell-container svg:hover {
   animation: pulse 0.4s backwards;
@@ -638,7 +638,7 @@
      .socials {
       grid-column: 1 / span 2;
     }
-    .daily, {
+    .daily {
       grid-column: 1 / span 1;
   
     }
