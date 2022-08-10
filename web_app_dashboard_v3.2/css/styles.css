@@ -615,7 +615,7 @@ margin-left: 5px;
 .social-bundle {
   display: flex;
   flex-direction: column;
-  width: 70%;
+  flex-basis: 33.33%;
 
 }
 
@@ -932,7 +932,6 @@ p.date {
   margin-left: auto;
   margin-right: 10px;
 }
-
 
 
 }
