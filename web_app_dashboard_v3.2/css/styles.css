@@ -248,7 +248,7 @@ canvas#daily-chart {
 }
 
 section.mobile {
-  width: 70%
+  width: 90%
 }
 
 canvas#mobile-chart {
@@ -309,7 +309,7 @@ fill: white;
 }
 
 section.mobile {
-  margin-left: 40px;
+  margin-left: 45px;
 }
 
 section.mobile h3 {
